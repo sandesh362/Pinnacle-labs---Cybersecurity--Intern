@@ -47,14 +47,14 @@ cd securekey-logger
 
 
 
-
 ## 📸 Screenshots
 
 ## 📸 Screenshots
 
-<img src="https://raw.githubusercontent.com/sandesh362/Pinnacle-labs---Cybersecurity--Intern/main/assets/Screenshot%202025-06-11%20113912.png" width="500">
+![GUI](https://raw.githubusercontent.com/sandesh362/Pinnacle-labs---Cybersecurity--Intern/main/assets/Screenshot%202025-06-11%20113912.png)
 
-<img src="https://raw.githubusercontent.com/sandesh362/Pinnacle-labs---Cybersecurity--Intern/main/assets/Screenshot%202025-06-11%20113926.png" width="500">
+![Logs](https://raw.githubusercontent.com/sandesh362/Pinnacle-labs---Cybersecurity--Intern/main/assets/Screenshot%202025-06-11%20113926.png)
+
 
 
 
