@@ -67,7 +67,7 @@ This project was developed as part of my internship at Pinnacle Labs, focusing o
 
 🙋 Author
  🔗 Connect with Me
-Made with 💻 by 👤 Sandesh Bramhane
+Made with 💻 by 👤 Sandesh Bramhane -www.linkedin.com/in/sandesh-bramhane-258aa8320/
    
 
 **📜 License**
