@@ -65,6 +65,11 @@ This project was developed as part of my internship at Pinnacle Labs, focusing o
 
 ⭐ Feel free to star this repository if you found it useful!
 
+🙋 Author
+ 🔗 Connect with Me
+Made with 💻 by 👤 Sandesh Bramhane
+   
+
 **📜 License**
 MIT License — use responsibly!
 
