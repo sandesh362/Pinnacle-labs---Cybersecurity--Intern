@@ -63,8 +63,12 @@ This project uses a background thread that auto-sends logs every 60 seconds usin
 **👨‍💻 Internship Contribution**
 This project was developed as part of my internship at Pinnacle Labs, focusing on real-world cybersecurity concepts.
 
+⭐ Feel free to star this repository if you found it useful!
+
 **📜 License**
 MIT License — use responsibly!
+
+
 
 
 
