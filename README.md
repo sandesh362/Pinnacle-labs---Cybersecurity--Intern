@@ -47,10 +47,13 @@ cd securekey-logger
 
 
 
-**📸 Screenshots**
-           <img src=" https://raw.githubusercontent.com/sandesh362/Pinnacle-labs---Cybersecurity--Intern/main/assests/Screenshot 2025-06-11 113912.png"  width= "500">
 
-            <img src=" https://raw.githubusercontent.com/sandesh362/Pinnacle-labs---Cybersecurity--Intern/main/assests/Screenshot 2025-06-11 113926.png"  width= "500">
+## 📸 Screenshots
+
+<img src="https://raw.githubusercontent.com/sandesh362/Pinnacle-labs---Cybersecurity--Intern/tree/main/assests/Screenshot%202025-06-11%20113912.png" width="500">
+
+<img src="https://raw.githubusercontent.com/sandesh362/Pinnacle-labs---Cybersecurity--Intern/tree/main/assests/Screenshot%202025-06-11%20113926.png" width="500">
+
 
 
 **## 📧 Email Automation**
